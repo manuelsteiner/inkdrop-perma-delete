@@ -1,0 +1,11 @@
+{
+  ".platform-darwin": {
+    "cmd-shift-backspace": "perma-delete:delete"
+  },
+  ".platform-linux": {
+    "ctrl-shift-backspace": "perma-delete:delete"
+  },
+  ".platform-win32": {
+    "ctrl-shift-backspace": "perma-delete:delete"
+  }
+}

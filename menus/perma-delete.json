@@ -1,0 +1,21 @@
+{
+  "context-menu": {
+    ".note-list-item-view": [
+      {
+        "label": "Remove Permanently",
+        "command": "perma-delete:delete"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "File",
+      "submenu": [
+        {
+          "label": "Remove Note Permanently",
+          "command": "perma-delete:delete"
+        }
+      ]
+    }
+  ]
+}
