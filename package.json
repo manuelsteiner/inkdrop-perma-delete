@@ -1,7 +1,7 @@
 {
   "name": "perma-delete",
   "main": "./lib/perma-delete",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An Inkdrop plugin to permanentely delete notes by skipping Trash.",
   "keywords": [
     "delete",
