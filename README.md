@@ -2,6 +2,11 @@
 
 Perma Delete is an [Inkdrop](https://www.inkdrop.app) plugin to permanentely delete selected notes by skipping Trash.
 
+## Installation
+```
+ipm install perma-delete
+```
+
 ## Commands
 The plugin exposes the following commands.
 
