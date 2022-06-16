@@ -15,10 +15,12 @@
   "engines": {
     "inkdrop": "^5.3.1"
   },
+  "dependencies": {
+    "inkdrop-model": "^2.7.1"
+  },
   "devDependencies": {
     "@types/node": "^17.0.41",
     "gts": "^3.1.0",
-    "inkdrop-model": "^2.7.1",
     "typescript": "^4.7.3"
   },
   "scripts": {
